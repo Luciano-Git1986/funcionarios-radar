@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background: #f3f4f6;
+  background: #ff6900;
   margin: 0;
   padding: 0;
 }
@@ -50,8 +50,8 @@ h1 {
   align-items: flex-start;
 }
 .profile img {
-  width: 400px;
-  height: 400px;
+  width: 600px;
+  height: 600px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 10px;
